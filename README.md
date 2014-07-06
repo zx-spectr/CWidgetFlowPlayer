@@ -12,5 +12,5 @@ Yii Виджет для подключения flash плеера flowplayer [ht
 $this->widget('ext.CWidgetFlowPlayer.CWidgetFlowPlayer', array(
     'width' => 448, //Ширина
     'height' => 336, // Высота
-    'flv' => 'http://example.com/path/to/file.flv,
+    'flv' => 'http://example.com/path/to/file.flv',
 ));
